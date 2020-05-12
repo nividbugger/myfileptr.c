@@ -1,0 +1,2 @@
+# myfileptr.c
+Write a program in C (without using any standard tools or library functions) to print the top N or/and bottom N lines of a given set of files. Print the first/last N lines of each FILE to standard output. With more than one FILE, precede each with a header giving the file name. The way to invoke the program is: a.out –q –h N –t N File1 File2 ....Filen (-h N – Print the top N lines from each file -t N – The bottom N lines from each file) -q – Do not print the header giving the file names
